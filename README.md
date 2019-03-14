@@ -9,3 +9,5 @@ In this lab we will ask you to implement merge sort.  We will break this into st
 You got this.
 
 ![](https://s3-us-west-2.amazonaws.com/curriculum-content/web-development/algorithms/smart-goggles.jpg)
+
+
